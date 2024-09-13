@@ -26,17 +26,6 @@ Accepting Freelancing and Full-Time Work in Data Analytics. Contact for further 
 ## 👀 Personal Interest:
 - Adventure, Sports, and Market Research
 
-## ⚡ Fun fact:
-- I am a nyctophile 💀
-
 ## Connect with me:
 - https://www.linkedin.com/in/arizkhan/
-
-## Languages and Tools:
-- ![MySQL](https://img.shields.io/badge/-MySQL-orange)
-- ![Pandas](https://img.shields.io/badge/-Pandas-blue)
-- ![Python](https://img.shields.io/badge/-Python-blue)
-- ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-green)
-- ![Seaborn](https://img.shields.io/badge/-Seaborn-red)
-- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-yellow)
 
