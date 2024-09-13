@@ -1,25 +1,42 @@
 # Hello 🌏
-I'm Ariz khan 🤖
+# I'm Ariz Khan 🤖  
+I'm a Data and AI enthusiast, passionate about using data to drive meaningful insights and solve complex problems.  
+Accepting Freelancing and Full-Time Work in Data Analytics. Contact for further info.  
 
-I'm a Data and AI enthusiast, passionate about using data to drive meaningful insights and solve complex problems.
+## 🔭 I’m currently learning and working on:
+- Working on some capstone projects using Python, SQL, and ML
+- Building data visualization projects using Power BI and Tableau
 
-### 🔭 I’m currently learning and working on:
-- Capstone projects using Python, SQL, and ML
-- Data visualization projects using Power BI and Tableau
-
-### 👀 I'm interested in:
+## 👀 I'm interested in:
 - Data Analysis, Data Science, and Machine Learning
 - Data Cleaning, Visualization
-- Trend Analysis and Insights
+- Trend Analysis, Insights
 
-### 💬 Ask me about:
-- Python, MySQL, Machine Learning, Data Visualization, Statistics, Analytics
+## 🤝 I’m looking to collaborate:
+- DA, DS, ML Projects
+- Open-source data science tools and libraries
+- Hackathons and data science competitions
 
-### 📫 How to reach me:
-- Email: [your-email@example.com]
+## 💬 Ask me about:
+- Python, MySQL, ML, Data Visualization, Stats, Analytics
 
-### Connect with me:
-- [LinkedIn](your-linkedin-link)
+## 📫 How to reach me:
+- aarizkhan2580@gmail.com
+- 
+## 👀 Personal Interest:
+- Adventure, Sports, and Market Research
 
-### 🛠️ Languages and Tools:
-- Python, Pandas, Scikit-learn, TensorFlow, Seaborn, MySQL
+## ⚡ Fun fact:
+- I am a nyctophile 💀
+
+## Connect with me:
+- https://www.linkedin.com/in/arizkhan/
+
+## Languages and Tools:
+- ![MySQL](https://img.shields.io/badge/-MySQL-orange)
+- ![Pandas](https://img.shields.io/badge/-Pandas-blue)
+- ![Python](https://img.shields.io/badge/-Python-blue)
+- ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-green)
+- ![Seaborn](https://img.shields.io/badge/-Seaborn-red)
+- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-yellow)
+
